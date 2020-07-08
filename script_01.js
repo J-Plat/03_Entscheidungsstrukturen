@@ -117,7 +117,7 @@ switch (true)
         console.log("a ist 1")
         break;
     case (a > 2):
-        console.log("a ist größer als 2")
+        console.log("a ist größer als 2") 
         break;
     default:
         console.log("a hat einen anderen Wert.")
