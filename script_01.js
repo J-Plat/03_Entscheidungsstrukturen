@@ -114,7 +114,7 @@ var a = 3;
 switch (true) 
 {
     case (a == 1):
-        console.log("a ist 1")
+        console.log("a ist 1")//
         break;
     case (a > 2):
         console.log("a ist größer als 2") 
