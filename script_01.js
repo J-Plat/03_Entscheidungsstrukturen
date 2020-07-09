@@ -9,7 +9,7 @@ var istJohnOlder, isJohnEqual;
 ageJohn = 30;
 ageMark = 30;
 
-//Logisch Tests
+//Logische Tests
 isJohnOlder = (ageJohn > ageMark);
 isJohnEqual = (ageJohn == ageMark);
 */
